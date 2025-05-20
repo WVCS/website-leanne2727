@@ -1,3 +1,14 @@
-body {
+h1{
+  color: #FFB6C1;
+ text-decoration: overline underline 13px;
+  letter-spacing: 4px;
+  text-shadow: 1px 1px #FFF4F2;
+}
 
+body{
+
+  background-color: antiquewhite;
+   
+  img {
+  opacity: 0.7;
 }
