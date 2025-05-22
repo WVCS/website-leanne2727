@@ -8,8 +8,29 @@ h1{
 body{
 
   background-color: antiquewhite;
-}
-
+   
   img {
   opacity: 0.7;
+}
+  
+  nav {
+  list-style-type: none;
+  width: 100%;
+  background-color: #FC8EAC;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 15px 100px;
+  float: left;
+}
+
+li a:hover {
+  background-color: #A59079;
+  color: white;
 }
